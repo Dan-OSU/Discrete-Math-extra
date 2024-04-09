@@ -1,7 +1,7 @@
 # Discrete-Math-extra
 Extra stuff to help you on your discrete journey
 
-
+```
      ▐▌ª▀█▀ █ ▄██▄   █▓█▄  ██  █▌ █ ▄█▀▓ █▓▀▀j█▀█╕╒█▀█ █Γj█ █▀█╕   ▀█▀Γ▄█▀▄
      ▐▌ j█    █▄▄⌠   █M▐█ ╒█▓▌ ██▌█ █▌,▄ █▄▄ j█ █▌▐▓ █`█▌j█ █▄▄,    █  █▌j█
      ▐▌ j█    ▄w▐█   █M▐█ █▓▓█ █▌▓█ █▌`█ █M  j█▀█ ▐▓ █`█▌j█ ▄ ▓▌    █  █▌j█
@@ -36,7 +36,7 @@ Extra stuff to help you on your discrete journey
                          ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄⌐
                          "▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀╙
                           .                          . ─
-
+```
 
 ## Videos and playlists
 - [OCaml Programming: Correct + Efficient + Beautiful - YouTube](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
