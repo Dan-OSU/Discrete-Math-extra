@@ -59,7 +59,8 @@ MIT OpenCourseWare
 - [Syllabus | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2005/pages/syllabus/)
 - [Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
 
-- [Pauls Online Math Notes](https://tutorial.math.lamar.edu/)
+Paul's Online Math Notes (math, generally)
+- [Paul's Online Math Notes](https://tutorial.math.lamar.edu/)
 
 ## Practice: 
 
