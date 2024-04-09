@@ -54,6 +54,10 @@ Other:
 - [A Comprehensive Guide to Logic (Master the Basics)](https://calcworkshop.com/logic/)
 - [Learn Discrete Math (w/ Videos & Plenty Of Practice!)](https://calcworkshop.com/discrete-math/)
 
+## Tools: 
+- [Truth Table Generator](https://web.stanford.edu/class/cs103/tools/truth-table-tool/)
+  - "This tool generates truth tables for propositional logic formulas. You can enter logical operators in several different formats. For example, the propositional formula p ∧ q → ¬r could be written as p /\ q -> ~r, as p and q => not r, or as p && q -> !r. The connectives ⊤ and ⊥ can be entered as T and F."
+
 ## Coursework: 
 Cornell CS 3110, Data Structures and Functional Programming
 - [cs.cornell.edu/courses/cs3110/2024sp/](https://www.cs.cornell.edu/courses/cs3110/2024sp/)
