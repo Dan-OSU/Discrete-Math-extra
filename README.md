@@ -28,13 +28,14 @@ Extra stuff to help you on your discrete journey
 ```
 
 ## Videos and playlists
-- [OCaml Programming: Correct + Efficient + Beautiful - YouTube](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
-- [Discrete Math II - 6.1.1 The Rules of Sum and Product](https://www.youtube.com/watch?v=spEjNcd37IQ&list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)
+- [Discrete Math I - Entire Course (playlist - Kimberly Brehm](https://www.youtube.com/watch?v=A3Ffwsnad0k&list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
+- [Discrete Math part II - Entire Course - Kimberly Brehm](https://www.youtube.com/watch?v=spEjNcd37IQ&list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)
 - [Discrete Math 1 – TrevTutor](https://trevtutorvideos.wordpress.com/discretemath/discretemath1/)
 - [Discrete Math 2 – TrevTutor](https://trevtutorvideos.wordpress.com/discretemath/discrete-math-2/)
 - [INTRODUCTION to SET THEORY - DISCRETE MATHEMATICS](https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
 - [PERMUTATIONS and COMBINATIONS Review - Discrete Mathematics](https://www.youtube.com/watch?v=DBugSTeX1zw&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
 - [Can You Prove the Triangle Inequality?](https://www.youtube.com/watch?v=EGpTX0cR8ac&list=PLDDGPdw7e6AjLVCdoobmqvyZZpthHGBJ6)
+- [OCaml Programming: Correct + Efficient + Beautiful - YouTube](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
 
 ## Practice: 
 
@@ -83,18 +84,6 @@ MIT OpenCourseWare
 
 Paul's Online Math Notes (math, generally)
 - [Paul's Online Math Notes](https://tutorial.math.lamar.edu/)
-
-
-## Videos:
-- [OCaml Programming: Correct + Efficient + Beautiful - YouTube](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
-- [Discrete Math II - 6.1.1 The Rules of Sum and Product](https://www.youtube.com/watch?v=spEjNcd37IQ&list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)
-- [Discrete Math 1 – TrevTutor](https://trevtutorvideos.wordpress.com/discretemath/discretemath1/)
-- [Discrete Math 2 – TrevTutor](https://trevtutorvideos.wordpress.com/discretemath/discrete-math-2/)
-- [INTRODUCTION to SET THEORY - DISCRETE MATHEMATICS](https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
-- [PERMUTATIONS and COMBINATIONS Review - Discrete Mathematics](https://www.youtube.com/watch?v=DBugSTeX1zw&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
-- [Can You Prove the Triangle Inequality?](https://www.youtube.com/watch?v=EGpTX0cR8ac&list=PLDDGPdw7e6AjLVCdoobmqvyZZpthHGBJ6)
-
-
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⠔⠊⠉⠐⢆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
