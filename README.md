@@ -33,7 +33,7 @@ Highly recommend installing [Typora](https://typora.io/), which strikes the righ
 
 ### Typora / LaTeX math mode symbology
 
-\neg for negative / negation
+\neg for negative / negation \\
 \rightarrow for right arrow (if this then that)
 \leftrightarrow for bidirectional <-> arrow (iff, if and only if)
 \oplus for the XOR (exclusive or) cross inside circle
