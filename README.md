@@ -27,6 +27,39 @@ Extra stuff to help you on your discrete journey
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
+## Tools
+- Typora / LaTeX math mode symbology
+
+\neg for negative / negation
+\rightarrow for right arrow (if this then that)
+\leftrightarrow for bidirectional <-> arrow (iff, if and only if)
+\oplus for the XOR (exclusive or) cross inside circle
+\equiv for three-headed equals sign (equivalence)
+\not to slash through a symbol (ie \not \land)
+\subseteq is the sideways left-to-right U with an underline, whereas 
+\subset is without the equal sign
+\supseteq and 
+\supset are the opposites (superset)
+
+- [Draw a symbol and find it! Detexify](https://detexify.kirelabs.org/classify.html)
+
+- [Wikimath](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
+
+- [Wiki LaTeX math symbols](https://en.wikibooks.org/wiki/LaTeX/Mathematics#List_of_mathematical_symbols)
+
+- [Comprehensive list of math symbols](https://mathvault.ca/wp-content/uploads/Comprehensive-List-of-Mathematical-Symbols.pdf) 
+
+- [The amsmath package](https://mirror.las.iastate.edu/tex-archive/macros/latex/required/amsmath/amsmath.pdf)
+
+- [Comprehensive list - Princeton](https://mirror.math.princeton.edu/pub/CTAN/info/symbols/comprehensive/SYMLIST)
+
+- [The Comprehensive LaTeX Symbol List – Symbols accessible from LaTeX](https://ctan.org/pkg/comprehensive)
+
+- [PDF - The Comprehensive LATEX Symbol List Scott Pakin, scott-ctan@pakin.org
+3 January 2024](https://ctan.mirrors.hoobly.com/info/symbols/comprehensive/symbols-letter.pdf)
+
+- [The Student Room (UK) on LaTeX](https://www.thestudentroom.co.uk/help/latex)
+
 ## Videos and playlists
 - [Discrete Math I - Entire Course (playlist - Kimberly Brehm](https://www.youtube.com/watch?v=A3Ffwsnad0k&list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
 - [Discrete Math part II - Entire Course - Kimberly Brehm](https://www.youtube.com/watch?v=spEjNcd37IQ&list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)
