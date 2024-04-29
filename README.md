@@ -33,15 +33,24 @@ Highly recommend installing [Typora](https://typora.io/), which strikes the righ
 
 ### Typora / LaTeX math mode symbology
 
-\neg for negative / negation \\
-\rightarrow for right arrow (if this then that)
-\leftrightarrow for bidirectional <-> arrow (iff, if and only if)
-\oplus for the XOR (exclusive or) cross inside circle
-\equiv for three-headed equals sign (equivalence)
-\not to slash through a symbol (ie \not \land)
-\subseteq is the sideways left-to-right U with an underline, whereas 
-\subset is without the equal sign
-\supseteq and 
+\neg for negative / negation \n
+
+\rightarrow for right arrow (if this then that) \n
+
+\leftrightarrow for bidirectional <-> arrow (iff, if and only if) \n
+
+\oplus for the XOR (exclusive or) cross inside circle \n
+
+\equiv for three-headed equals sign (equivalence) \n
+
+\not to slash through a symbol (ie \not \land) \n
+
+\subseteq is the sideways left-to-right U with an underline, whereas  \n
+
+\subset is without the equal sign \n
+
+\supseteq and  \n
+
 \supset are the opposites (superset)
 
 ### Source
