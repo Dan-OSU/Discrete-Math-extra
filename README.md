@@ -28,7 +28,10 @@ Extra stuff to help you on your discrete journey
 ```
 
 ## Tools
-- Typora / LaTeX math mode symbology
+Highly recommend installing [Typora](https://typora.io/), which strikes the right balance between function and LaTeX math character capability.
+- Also available in [Chocolatey](https://community.chocolatey.org/packages/typora) (Windows) if you prefer
+
+### Typora / LaTeX math mode symbology
 
 \neg for negative / negation
 \rightarrow for right arrow (if this then that)
@@ -40,6 +43,8 @@ Extra stuff to help you on your discrete journey
 \subset is without the equal sign
 \supseteq and 
 \supset are the opposites (superset)
+
+### Source
 
 - [Draw a symbol and find it! Detexify](https://detexify.kirelabs.org/classify.html)
 
@@ -89,7 +94,6 @@ Quizlet
 - https://quizlet.com/258416089/discrete-math-flash-cards/
 - https://quizlet.com/11954914/discrete-math-flash-cards/
 
-- 
 Other: 
 - [Discrete Mathematics Quizzes & Practice Tests](https://merithub.com/quizzes/discrete-mathematics)
 - [Discrete Math Puzzles | Brilliant](https://brilliant.org/courses/discrete-math-puzzles/)
